@@ -7,6 +7,7 @@ If you will run this using the main class, type the following commands on the cm
 
 1.) In case there are no .class files in your current directory, type
 javac *.java
+
 2.) Then
 java MP01v2
 
